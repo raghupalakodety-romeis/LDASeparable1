@@ -1,6 +1,5 @@
 # LDASeparable1
 Linear Discriminant Analysis on UIUC Car Database
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![Test result](images/uiucTestResults/TEST_RHO_9_0_search_000.jpg)
 
