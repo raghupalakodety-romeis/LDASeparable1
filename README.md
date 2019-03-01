@@ -23,10 +23,10 @@ In the previous approach where training image patches x ∈ R m×n of size m × 
 
 
 A tensor also known as n-array or multidimensional matrix or n-mode matrix, is a higher order generalization of a vector (first order tensor) and a matrix (second order tensor). In this short description on second order tensors **X** to represent images.
-A typical training set representing grey-value images of size m x n and training set consists of **N** image patches. Tensor discriminant analysis requires a projection tensor **W** which solves the regression problem. This approach address the problem of singular matrices. The tensor projector is shown below.
+A typical training set representing grey-value images of size m x n and training set consists of **N** image patches. Tensor discriminant analysis requires a projection tensor **W** which solves the regression problem. This approach address the problem of singular matrices. The tensor projector and the test images are shown below.
 
 
-![Tensor Projector](images/visualizeW_RHO_9.PGM)   ![Test Image](images/robust.jpg)
+![Tensor Projector](images/visualizeW_RHO_9.PGM)                                   ![Test Image](images/robust.jpg)
 
 
 
