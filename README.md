@@ -10,7 +10,7 @@ Before deciding best classifier on test data, the precision-recall curves were s
 ![Projection Vector](images/Visualizing_projection_vector.jpg) Projector vector
 
 
-#Projection Vector
+# Projection Vector
 
 The projection vector thus obtained is as follows
 (**X**<sup>T</sup>**X**)<sup>-1</sup>**X**<sup>T</sup>y
