@@ -6,7 +6,8 @@ A collection of 2556 training image patches of which 2442 are patches of backgro
 the rest 124 are patches of containing cars and tagged as class label C<sub>1</sub>. Each of these ground truth image patches is of size 81 × 31. The 2D visualization of projection vector **w** computed is shown below. From this figure, which is obtained from least squares regression training, and there is no car like structural traits upon visualization of **w**.
 Before deciding best classifier on test data, the precision-recall curves were studied. One such best classifier is obtianed is shown below. 
 
-![Test result](images/uiucTestResults/TEST_RHO_9_0_search_000.jpg)   ![Projection Vector](images/Visualizing_projection_vector.jpg)
+![Test result](images/uiucTestResults/TEST_RHO_9_0_search_000.jpg)
+![Projection Vector](images/Visualizing_projection_vector.jpg)
 
 
 #Projection Vector
@@ -26,7 +27,9 @@ A tensor also known as n-array or multidimensional matrix or n-mode matrix, is a
 A typical training set representing grey-value images of size m x n and training set consists of **N** image patches. Tensor discriminant analysis requires a projection tensor **W** which solves the regression problem. This approach address the problem of singular matrices. The tensor projector and the test images are shown below.
 
 
-![Tensor Projector](images/visualizeW_RHO_9.PGM)                                   ![Test Image](images/robust.jpg)
+![Tensor Projector](images/Visualizing_tensor_projection_9.jpg)  
+
+![Test Image](images/robust.jpg)
 
 
 
