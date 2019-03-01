@@ -26,7 +26,7 @@ A tensor also known as n-array or multidimensional matrix or n-mode matrix, is a
 A typical training set representing grey-value images of size m x n and training set consists of **N** image patches. Tensor discriminant analysis requires a projection tensor **W** which solves the regression problem. This approach address the problem of singular matrices. The tensor projector is shown below.
 
 
-![Test result](images/uiucTestResults/TEST_RHO_9_0_search_000.jpg)   ![Projection Vector](images/Visualizing_projection_vector.jpg)
+![Test result](images/robust.jpg)   ![Tensor projector](images/robust.jpg)
 
 
 
